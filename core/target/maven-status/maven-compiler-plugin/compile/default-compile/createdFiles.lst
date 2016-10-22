@@ -1,0 +1,16 @@
+com\geeksolutions\pos\dao\UserDao.class
+com\geeksolutions\pos\dao\UserProfileDao.class
+com\geeksolutions\pos\dao\AbstractDao.class
+com\geeksolutions\pos\service\impl\UserServiceImpl.class
+com\geeksolutions\pos\service\UserProfileService.class
+com\geeksolutions\pos\model\UserProfile.class
+com\geeksolutions\pos\model\PersistentLogin.class
+com\geeksolutions\pos\model\User.class
+com\geeksolutions\pos\service\UserService.class
+com\geeksolutions\pos\dao\impl\UserProfileDaoImpl.class
+com\geeksolutions\pos\dao\impl\HibernateTokenRepositoryImpl.class
+com\geeksolutions\pos\dao\impl\UserDaoImpl.class
+com\geeksolutions\pos\configuration\HibernateConfiguration.class
+com\geeksolutions\pos\model\UserProfileType.class
+com\geeksolutions\pos\App.class
+com\geeksolutions\pos\service\impl\UserProfileServiceImpl.class

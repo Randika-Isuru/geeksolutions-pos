@@ -1,0 +1,7 @@
+com\geeksolutions\pos\configuration\AppInitializer.class
+com\geeksolutions\pos\security\CustomUserDetailsService.class
+com\geeksolutions\pos\security\SecurityConfiguration.class
+com\geeksolutions\pos\controller\AppController.class
+com\geeksolutions\pos\converter\RoleToUserProfileConverter.class
+com\geeksolutions\pos\security\SecurityWebApplicationInitializer.class
+com\geeksolutions\pos\configuration\AppConfig.class
